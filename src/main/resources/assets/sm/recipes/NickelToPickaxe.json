@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "sm:nickel_ingot"
+        },
+        
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:nickel_pickaxe",
+        "count": 1
+    }
+}

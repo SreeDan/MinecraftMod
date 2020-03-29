@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NN ",
+        "NS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "sm:nickel_ingot"
+        },
+        
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:nickel_axe",
+        "count": 1
+    }
+}
