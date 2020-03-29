@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "N N",
+        "N N"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "sm:nickel_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:nickel_leggings",
+        "count": 1
+    }
+}

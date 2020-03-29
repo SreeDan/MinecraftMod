@@ -1,0 +1,23 @@
+
+
+//Items
+item.nickel_ingot.name=Nickel Ingot
+item.nickel_nugget.name=Nickel Nugget
+item.nickel_dust.name=Nickel Dust
+
+//Blocks
+tile.nickel_block.name=Nickel Block
+tile.nickel_ore.name=Nickel Ore
+
+//Tools
+item.nickel_sword.name=Nickel Sword
+item.nickel_axe.name=Nickel Axe
+item.nickel_shovel.name=Nickel Shovel
+item.nickel_pickaxe.name=Nickel Pickaxe
+item.nickel_hoe.name=Nickel Hoe
+
+//Armor
+item.nickel_helmet.name=Nickel Helmet
+item.nickel_chestplate.name=Nickel Chestplate
+item.nickel_leggings.name=Nickel Leggings
+item.nickel_boots.name=Nickel Boots
