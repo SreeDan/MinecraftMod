@@ -1,4 +1,4 @@
-## Minecraft Mod
+# Minecraft Mod
 
 I made a minecraft mod written in Java. This was my first Java project and I used this project as a way to learn the syntax of Java and learn how to structure code in Java. 
 
